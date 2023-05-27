@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import Header from './components/Header';
-import Home from './pages/Home';
-import About from './pages/About';
-import Portfolio from './pages/Portfolio';
-import Contact from './pages/Contact';
-import Resume from './pages/Resume';
+import Home from './components/pages/Home';
+import About from './components/pages/About';
+import Portfolio from './components/pages/Portfolio';
+import Contact from './component/pages/Contact';
+import Resume from './components/pages/Resume';
 import Footer from './components/Footer';
 
 function App() {
