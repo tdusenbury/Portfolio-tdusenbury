@@ -4,7 +4,7 @@ function About() {
     return (
         <div>
             <div>
-                <h2>Hello! My name is Tamara Dusenbury. People call me "T".</h2>
+                <h2>ABOUT PAGE</h2>
             </div>
         </div>
     )

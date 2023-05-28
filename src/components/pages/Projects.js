@@ -1,10 +1,10 @@
 import React from 'react';
-import ProjectCards from '../components/ProjectCards';
+import ProjectCards from '../ProjectCards';
 
-function Portfolio() {
+function Projects() {
     return (
         <div>
-            <h1>Portfolio</h1>
+            <h1>PROJECTS PAGE</h1>
             <div className="container">
                 <ProjectCards/>
                 <ProjectCards/>
@@ -15,4 +15,4 @@ function Portfolio() {
     );
 }
 
-export default Portfolio;
+export default Projects;

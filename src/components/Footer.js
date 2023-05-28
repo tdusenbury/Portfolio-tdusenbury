@@ -1,12 +1,10 @@
 import React from 'react';
-import NavTabs from './NavTabs';
 
-function Footer({ currentPage, handlePageChange }) {
+function Footer() {
     return (
         <div>
             <div>
-                <h3>Footer</h3>
-                <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
+                <h3>FOOTER</h3>
             </div>
         </div>
     )
