@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/Portfolio-tdusenbury/static/css/main.0ae5cf87.css",
-    "main.js": "/Portfolio-tdusenbury/static/js/main.da5a6ead.js",
+    "main.css": "/Portfolio-tdusenbury/static/css/main.f505a371.css",
+    "main.js": "/Portfolio-tdusenbury/static/js/main.2382cb84.js",
+    "static/media/seuss quilts.jpg": "/Portfolio-tdusenbury/static/media/seuss quilts.4ab81144daaeedf4b400.jpg",
+    "static/media/PIC.jpg": "/Portfolio-tdusenbury/static/media/PIC.f22491b961fde17a4039.jpg",
+    "static/media/hopshaven.PNG": "/Portfolio-tdusenbury/static/media/hopshaven.1d3af6684dce9815aae8.PNG",
+    "static/media/flower embroidery.jpg": "/Portfolio-tdusenbury/static/media/flower embroidery.ef96b97f5c9d43fb31ac.jpg",
+    "static/media/rabbits.jpg": "/Portfolio-tdusenbury/static/media/rabbits.34f77d5d41cf2f2c5930.jpg",
+    "static/media/turtles.jpg": "/Portfolio-tdusenbury/static/media/turtles.69af4307fd6cb4cc7678.jpg",
+    "static/media/sunflower.jpg": "/Portfolio-tdusenbury/static/media/sunflower.88bc5a48c8674af93033.jpg",
+    "static/media/DirtyDozen.png": "/Portfolio-tdusenbury/static/media/DirtyDozen.548995744097a67483df.png",
+    "static/media/puppies.jpg": "/Portfolio-tdusenbury/static/media/puppies.be6d7e0900390a27812c.jpg",
+    "static/media/sunset sunflower.jpg": "/Portfolio-tdusenbury/static/media/sunset sunflower.ecd9cff72caa023ffe09.jpg",
+    "static/media/Screen with cities.PNG": "/Portfolio-tdusenbury/static/media/Screen with cities.5673b0840702efb3a566.PNG",
+    "static/media/Blog homepage.PNG": "/Portfolio-tdusenbury/static/media/Blog homepage.d806c3dbf51efbee672d.PNG",
+    "static/media/Screen Pic Scheduler.PNG": "/Portfolio-tdusenbury/static/media/Screen Pic Scheduler.fb362acc3818a775094a.PNG",
+    "static/media/EmployeeTracker.PNG": "/Portfolio-tdusenbury/static/media/EmployeeTracker.b2dc575e0073c90ae381.PNG",
+    "static/media/PasswordGeneratorSite.PNG": "/Portfolio-tdusenbury/static/media/PasswordGeneratorSite.306a78dd97b9475aa46a.PNG",
+    "static/media/Empty Note Taker Page.PNG": "/Portfolio-tdusenbury/static/media/Empty Note Taker Page.9ad261aff433377cc86c.PNG",
     "index.html": "/Portfolio-tdusenbury/index.html",
-    "main.0ae5cf87.css.map": "/Portfolio-tdusenbury/static/css/main.0ae5cf87.css.map",
-    "main.da5a6ead.js.map": "/Portfolio-tdusenbury/static/js/main.da5a6ead.js.map"
+    "main.f505a371.css.map": "/Portfolio-tdusenbury/static/css/main.f505a371.css.map",
+    "main.2382cb84.js.map": "/Portfolio-tdusenbury/static/js/main.2382cb84.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ae5cf87.css",
-    "static/js/main.da5a6ead.js"
+    "static/css/main.f505a371.css",
+    "static/js/main.2382cb84.js"
   ]
 }
