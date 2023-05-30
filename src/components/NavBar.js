@@ -4,10 +4,10 @@ import NavTabs from './NavTabs'
 
 function NavBar({ currentPage, handlePageChange }) {
     return (
-        <div>
+        <div className='bg-accent-focus'>
             <div>
-                <h2>NAVBAR</h2>
-                <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
+                <h2>Tamara "T" Dusenbury</h2>
+               <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} /> 
             </div>
         </div>
     )

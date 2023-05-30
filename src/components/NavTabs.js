@@ -2,12 +2,12 @@ import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <ul className="navbar justify-end space-x-3">
       <li className="nav-item">
         <a
           href="#home"
           onClick={() => handlePageChange('Home')}
-          className={currentPage === 'Home' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Home' ? 'btn btn-outline' : 'nav-link'}
         >
           Home
         </a>
@@ -16,7 +16,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#about"
           onClick={() => handlePageChange('About')}
-          className={currentPage === 'About' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'About' ? 'btn btn-outline' : 'nav-link'}
         >
           About
         </a>
@@ -25,7 +25,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#projects"
           onClick={() => handlePageChange('Projects')}
-          className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Projects' ? 'btn btn-outline' : 'nav-link'}
         >
           Projects
         </a>
@@ -34,7 +34,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
-          className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Contact' ? 'btn btn-outline' : 'nav-link'}
         >
           Contact
         </a>
@@ -43,7 +43,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         <a
           href="#resume"
           onClick={() => handlePageChange('Resume')}
-          className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}
+          className={currentPage === 'Resume' ? 'btn btn-outline' : 'nav-link'}
           >
             Resume
         </a>
