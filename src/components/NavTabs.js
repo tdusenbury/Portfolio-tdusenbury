@@ -2,7 +2,8 @@ import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul className="navbar justify-end space-x-3">
+
+    <ul className="navbar text-lg justify-end space-x-3">
       <li className="nav-item">
         <a
           href="#home"
@@ -23,9 +24,9 @@ function NavTabs({ currentPage, handlePageChange }) {
       </li>
       <li className="nav-item">
         <a
-          href="#projects"
-          onClick={() => handlePageChange('Projects')}
-          className={currentPage === 'Projects' ? 'btn btn-outline' : 'nav-link'}
+          href="#portfolio"
+          onClick={() => handlePageChange('Portfolio')}
+          className={currentPage === 'Portfolio' ? 'btn btn-outline' : 'nav-link'}
         >
           Projects
         </a>

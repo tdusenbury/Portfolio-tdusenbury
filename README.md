@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# Tamara Dusenbury -- Portfolio
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Technology Used 
 
-## Available Scripts
+| [![My Skills](https://skillicons.dev/icons?i=react,webpack,tailwind,heroku,html,js,nodejs,vscode,github&theme=light)](https://skillicons.dev) 
 
-In the project directory, you can run:
 
-### `npm start`
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Description 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Welcome to my portfolio! Here you can learn a bit more about me, check out my individual and group projects, contact me, and review my resume. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![alt text]()
 
-### `npm test`
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Check out the site live here!]( https://tdusenbury.github.io/Portfolio-tdusenbury/)
 
-### `npm run build`
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you have found this blog outside of GitHub and wish to view the original, [visit my Repository link here.](https://github.com/tdusenbury/Portfolio-tdusenbury)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### `npm run eject`
+maybe add some details here and a picture?????????
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![alt text]()
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Table of Contents
 
-### Analyzing the Bundle Size
+  - [**Description**](#description)
+  - [**Usage**](#usage)
+  - [**Author Info**](#author-info)
+  - [**License**](#license)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Usage 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This application allows like-minded users to read and write about the effects of technology on books and vice versa. This CMS-style blog presents a sleek UI that is easy to use and guide yourself through.
+*************
+When a user needs to login, they are directed here:
 
-### Advanced Configuration
+![alt text](./img/Signup.PNG)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+****************
+Once logged in, a user can visit their personal dashboard. This allows them easy access to create new content, view their previous posts, and edit or delete previous posts:
 
-### Deployment
+![alt text](./img/Dashboard.PNG)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+*****************
+If a user chooses to edit or a delete one of their posts, they are directed to this screen:
 
-### `npm run build` fails to minify
+![alt text](./img/Edit.PNG)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Author Info
+My name is Tamara "T" Dusenbury
+If you have any questions about me or this project, please contact me:
+  
+- [**Github**](https://github.com/tdusenbury)
+
+- [**LinkedIn**](https://linkedin.com/in/tamara-dusenbury-02ab8591)
+
+- [**Email**](mailto:tamara.dusenbury@gmail.com)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Credits
+
+I could only be so fortunate to work with such amazing people as those in my cohort!
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Contributing
+
+If you would like to contribute, please follow the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## License
+
+This projects holds an MIT License.
