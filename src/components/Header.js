@@ -1,17 +1,25 @@
-import React from 'react';
-import Icon from './images/TD Icon Smaller.png';
+import React from "react";
+import Icon from "./images/TD Icon Smaller.png";
+import NavBar from "./NavBar";
 
-
-function Header() {
+function Header({ currentPage, handlePageChange }) {
     return (
-        <div className='bg-accent-focus flex'>
-          
-            <img className="h-26 w-26" src={Icon} alt="The Initials T and D" height="10" />
-            <p className="w-2/3 text-right text-lg pr-4 font-bold italic ">"It is good to have an end to journey towards;<br/> but it is the journey that matters, <br/> in the end."
-            <br/>
-            --Ursula K Le Guin</p>
+        <div className="flex flex-col items-center flex-wrap bg-accent-focus">
+            <img
+                className="justify-left h-18 w-18 mt-1 mr-4"
+                src={Icon}
+                alt="The Initials T and D"
+            />
+
+            <h1 className="text-2xl font-bold mb-15">
+                Tamara "T" Dusenbury
+            </h1>
+            <NavBar
+                currentPage={currentPage}
+                handlePageChange={handlePageChange}
+            />
         </div>
-    )
+    );
 }
 
 export default Header;

@@ -4,13 +4,36 @@ import Project from "../Project";
 function Portfolio() {
     const cardData = [
         {
-            img: "DirtyDozen.png",
-            name: "Dirty Dozen",
-            alt: "Dirty Dozen",
-            description: `12 Interesting Facts About the Country a Movie was
-            Filmed In`,
-            site: "https://berkeleycodingmomma.github.io/dirty-dozen-team-project/",
-            github: "https://github.com/Berkeleycodingmomma/dirty-dozen-team-project",
+            img: "hopshaven.png",
+            name: "Hops Haven",
+            alt: "Hops Haven",
+            description: `An app to find new beers and to keep a personalized list of favorites and beers to try.`,
+            site: "https://hops-haven.herokuapp.com/",
+            github: "https://github.com/CodeNameNoah/Hops-Haven",
+        },
+        {
+            img: "Screen Pic Scheduler.png",
+            name: "Work-Day Scheduler",
+            alt: "Work-Day Scheduler",
+            description: `This is a Work-Day Schedule application to keep track of events on a single day. `,
+            site: "https://tdusenbury.github.io/Work-Day-Scheduler/",
+            github: "https://github.com/tdusenbury/Work-Day-Scheduler",
+        },
+        {
+            img: "Empty Note Taker Page.png",
+            name: "Note Taker",
+            alt: "Note Taker",
+            description: `This project is a Note Taker that uses Express.js on the back end to save and retrieve note data from a JSON file.`,
+            site: "https://t-notetaker.herokuapp.com/",
+            github: "https://github.com/tdusenbury/Note-Taker-Using-Express.js",
+        },
+        {
+            img: "bloghomepage.png",
+            name: "Book Blog Site",
+            alt: "Book Blog Site",
+            description: `A Blog celebrating the intersection of books and technology.`,
+            site: "https://t-mvc-tech-blog.herokuapp.com/",
+            github: "https://github.com/tdusenbury/MVC-Tech-Blog",
         },
         {
             img: "DirtyDozen.png",
@@ -22,40 +45,12 @@ function Portfolio() {
             github: "https://github.com/Berkeleycodingmomma/dirty-dozen-team-project",
         },
         {
-            img: "DirtyDozen.png",
-            name: "Dirty Dozen",
-            alt: "Dirty Dozen",
-            description: `12 Interesting Facts About the Country a Movie was
-            Filmed In`,
-            site: "https://berkeleycodingmomma.github.io/dirty-dozen-team-project/",
-            github: "https://github.com/Berkeleycodingmomma/dirty-dozen-team-project",
-        },
-        {
-            img: "DirtyDozen.png",
-            name: "Dirty Dozen",
-            alt: "Dirty Dozen",
-            description: `12 Interesting Facts About the Country a Movie was
-            Filmed In`,
-            site: "https://berkeleycodingmomma.github.io/dirty-dozen-team-project/",
-            github: "https://github.com/Berkeleycodingmomma/dirty-dozen-team-project",
-        },
-        {
-            img: "DirtyDozen.png",
-            name: "Dirty Dozen",
-            alt: "Dirty Dozen",
-            description: `12 Interesting Facts About the Country a Movie was
-            Filmed In`,
-            site: "https://berkeleycodingmomma.github.io/dirty-dozen-team-project/",
-            github: "https://github.com/Berkeleycodingmomma/dirty-dozen-team-project",
-        },
-        {
-            img: "DirtyDozen.png",
-            name: "Dirty Dozen",
-            alt: "Dirty Dozen",
-            description: `12 Interesting Facts About the Country a Movie was
-            Filmed In`,
-            site: "https://berkeleycodingmomma.github.io/dirty-dozen-team-project/",
-            github: "https://github.com/Berkeleycodingmomma/dirty-dozen-team-project",
+            img: "Screen with cities.png",
+            name: "Weather Dashboard",
+            alt: "Weather Dashboard",
+            description: `This is a weather application that can store multiple previously searched locations around the world.`,
+            site: "https://tdusenbury.github.io/Weather-Dashboard/",
+            github: "https://github.com/tdusenbury/Weather-Dashboard",
         },
     ];
     return (
@@ -73,49 +68,6 @@ function Portfolio() {
             ))}
         </div>
     )
-            }
-
-//             <div className="card w-96 bg-base-100 shadow-xl">
-//                 <figure>
-//                     <img
-//                         src={dirtyDozen}
-//                         alt="The Dirty Dozen Movie Trivia Facts Website"
-//                     />
-//                 </figure>
-//                 <div className="card-body items-center text-center">
-//                     <h2 className="card-title">The Dirty Dozen</h2>
-//                     <p>
-//                         12 Interesting Facts About the Country a Movie was
-//                         Filmed In
-//                     </p>
-//                     <div className="card-actions">
-//                         <button className="btn btn-primary">
-//                             View Site Here
-//                         </button>
-//                         <button className="btn btn-primary">View GitHub</button>
-//                     </div>
-//                 </div>
-//             </div>
-
-//             <div className="card w-96 bg-base-100 shadow-xl">
-//                 <figure>
-//                     <img src={hopsHaven} alt="Hops Haven Beer Lovers Website" />
-//                 </figure>
-//                 <div className="card-body items-center text-center">
-//                     <h2 className="card-title">Hops Haven</h2>
-
-//                     <p>Love Beer? Keep Track Here!</p>
-
-//                     <div className="card-actions">
-//                         <button className="btn btn-primary">
-//                             View Site Here
-//                         </button>
-//                         <button className="btn btn-primary">View GitHub</button>
-//                     </div>
-//                 </div>
-//             </div>
-//         </div>
-//     );
-// }
+}
 
 export default Portfolio;

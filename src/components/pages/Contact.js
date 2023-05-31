@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
     return (
-        <div className="container my-24 px-6 mx-auto">
+        <div className="font-sans container my-24 px-6 mx-auto">
             <section className="mb-32 text-center text-gray-800">
                 <div className="max-w-[700px] mx-auto px-3 lg:px-6">
                     <h2 className="text-3xl font-bold mb-12">Contact Me!</h2>
