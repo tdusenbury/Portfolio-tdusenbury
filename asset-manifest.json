@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio-tdusenbury/static/css/main.eb4b24b2.css",
-    "main.js": "/Portfolio-tdusenbury/static/js/main.f63a7a4a.js",
+    "main.js": "/Portfolio-tdusenbury/static/js/main.a3a88db4.js",
     "static/media/PIC.jpg": "/Portfolio-tdusenbury/static/media/PIC.f22491b961fde17a4039.jpg",
     "static/media/hopshaven.png": "/Portfolio-tdusenbury/static/media/hopshaven.1d3af6684dce9815aae8.png",
     "static/media/DirtyDozen.png": "/Portfolio-tdusenbury/static/media/DirtyDozen.548995744097a67483df.png",
     "static/media/puppies.jpg": "/Portfolio-tdusenbury/static/media/puppies.be6d7e0900390a27812c.jpg",
     "static/media/sunsetsunflower.png": "/Portfolio-tdusenbury/static/media/sunsetsunflower.ecd9cff72caa023ffe09.png",
     "static/media/aboutScreenShot.PNG": "/Portfolio-tdusenbury/static/media/aboutScreenShot.1e948ebb103c12d39885.PNG",
+    "static/media/ClubHubWithSlogan.gif": "/Portfolio-tdusenbury/static/media/ClubHubWithSlogan.33605f5f53b07c75f042.gif",
     "static/media/portfolioScreenShot.PNG": "/Portfolio-tdusenbury/static/media/portfolioScreenShot.62fcd3a03cc7f13c4642.PNG",
     "static/media/resume.pdf": "/Portfolio-tdusenbury/static/media/resume.1b9cea30c35c32d15e68.pdf",
     "static/media/tdresume.png": "/Portfolio-tdusenbury/static/media/tdresume.050e0f29c9d2e33a7c02.png",
@@ -18,10 +19,10 @@
     "static/media/PasswordGeneratorSite.png": "/Portfolio-tdusenbury/static/media/PasswordGeneratorSite.306a78dd97b9475aa46a.png",
     "index.html": "/Portfolio-tdusenbury/index.html",
     "main.eb4b24b2.css.map": "/Portfolio-tdusenbury/static/css/main.eb4b24b2.css.map",
-    "main.f63a7a4a.js.map": "/Portfolio-tdusenbury/static/js/main.f63a7a4a.js.map"
+    "main.a3a88db4.js.map": "/Portfolio-tdusenbury/static/js/main.a3a88db4.js.map"
   },
   "entrypoints": [
     "static/css/main.eb4b24b2.css",
-    "static/js/main.f63a7a4a.js"
+    "static/js/main.a3a88db4.js"
   ]
 }
