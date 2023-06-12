@@ -4,21 +4,21 @@ import Project from "../Project";
 function Portfolio() {
     const cardData = [
         {
+            img: "ClubHubWithSlogan.gif",
+            name: "Club Hub",
+            alt: "Club Hub",
+            description: `Club Hub is an app to help a group of people in a club or organization to communicate about their events. `,
+            site: "https://clubhub.herokuapp.com/",
+            github: "https://github.com/tdusenbury/Club-Hub",
+        },
+        {
             img: "hopshaven.png",
             name: "Hops Haven",
             alt: "Hops Haven",
             description: `An app to find new beers and to keep a personalized list of favorites and beers to try.`,
             site: "https://hops-haven.herokuapp.com/",
             github: "https://github.com/CodeNameNoah/Hops-Haven",
-        },
-        {
-            img: "Screen Pic Scheduler.png",
-            name: "Work-Day Scheduler",
-            alt: "Work-Day Scheduler",
-            description: `This is a Work-Day Schedule application to keep track of events on a single day. `,
-            site: "https://tdusenbury.github.io/Work-Day-Scheduler/",
-            github: "https://github.com/tdusenbury/Work-Day-Scheduler",
-        },
+        },       
         {
             img: "Empty Note Taker Page.png",
             name: "Note Taker",
