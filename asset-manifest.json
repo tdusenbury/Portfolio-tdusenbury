@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-tdusenbury/static/css/main.eb4b24b2.css",
-    "main.js": "/Portfolio-tdusenbury/static/js/main.a3a88db4.js",
+    "main.js": "/Portfolio-tdusenbury/static/js/main.4f8c37d5.js",
     "static/media/PIC.jpg": "/Portfolio-tdusenbury/static/media/PIC.f22491b961fde17a4039.jpg",
     "static/media/hopshaven.png": "/Portfolio-tdusenbury/static/media/hopshaven.1d3af6684dce9815aae8.png",
     "static/media/DirtyDozen.png": "/Portfolio-tdusenbury/static/media/DirtyDozen.548995744097a67483df.png",
@@ -10,19 +10,20 @@
     "static/media/aboutScreenShot.PNG": "/Portfolio-tdusenbury/static/media/aboutScreenShot.1e948ebb103c12d39885.PNG",
     "static/media/ClubHubWithSlogan.gif": "/Portfolio-tdusenbury/static/media/ClubHubWithSlogan.33605f5f53b07c75f042.gif",
     "static/media/portfolioScreenShot.PNG": "/Portfolio-tdusenbury/static/media/portfolioScreenShot.62fcd3a03cc7f13c4642.PNG",
-    "static/media/resume.pdf": "/Portfolio-tdusenbury/static/media/resume.1b9cea30c35c32d15e68.pdf",
+    "static/media/newresume.pdf": "/Portfolio-tdusenbury/static/media/newresume.4f7a5c83ed4ad6a6e122.pdf",
     "static/media/tdresume.png": "/Portfolio-tdusenbury/static/media/tdresume.050e0f29c9d2e33a7c02.png",
     "static/media/Screen with cities.png": "/Portfolio-tdusenbury/static/media/Screen with cities.5673b0840702efb3a566.png",
     "static/media/bloghomepage.png": "/Portfolio-tdusenbury/static/media/bloghomepage.d806c3dbf51efbee672d.png",
+    "static/media/newresume.png": "/Portfolio-tdusenbury/static/media/newresume.464c5144c960c409b54a.png",
     "static/media/Screen Pic Scheduler.png": "/Portfolio-tdusenbury/static/media/Screen Pic Scheduler.fb362acc3818a775094a.png",
     "static/media/EmployeeTracker.png": "/Portfolio-tdusenbury/static/media/EmployeeTracker.b2dc575e0073c90ae381.png",
     "static/media/PasswordGeneratorSite.png": "/Portfolio-tdusenbury/static/media/PasswordGeneratorSite.306a78dd97b9475aa46a.png",
     "index.html": "/Portfolio-tdusenbury/index.html",
     "main.eb4b24b2.css.map": "/Portfolio-tdusenbury/static/css/main.eb4b24b2.css.map",
-    "main.a3a88db4.js.map": "/Portfolio-tdusenbury/static/js/main.a3a88db4.js.map"
+    "main.4f8c37d5.js.map": "/Portfolio-tdusenbury/static/js/main.4f8c37d5.js.map"
   },
   "entrypoints": [
     "static/css/main.eb4b24b2.css",
-    "static/js/main.a3a88db4.js"
+    "static/js/main.4f8c37d5.js"
   ]
 }
